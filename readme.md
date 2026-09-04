@@ -1,3 +1,7 @@
+- Places these files in a ".devcontainer" folder
+- Place the latter in the folder you'd like to work in (workspace)
+- Run the command and enjoy
+
 # Run
 ```bash
 devcontainer up --workspace-folder .
